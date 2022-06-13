@@ -1,0 +1,81 @@
+a img{
+    width: 5%;
+    float: left;
+    margin-top: 1%;
+}
+body{
+    background-color: rgba(206, 206, 206, 0.747);
+    margin: 0%;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(142, 158, 68);
+    font-family: Deneane;
+    color: white;
+    float: left;
+    width: 89%;
+    margin-top: 0%;
+}
+header{
+    font-family: Cooper;
+    font-size: 13px;
+    color: rgb(77, 77, 77);
+    top: 0;
+}
+#ti1{
+    background-color: rgb(233, 200, 91);
+    width: 2%;
+    float: left;
+    text-align: center;
+}
+#ti2{
+    background-color: rgb(142, 158, 68);
+    width: 2%;
+    float: left;
+    text-align: center;
+}
+#ti3{ 
+    background-color: rgb(199, 119, 0);
+    width: 2%;
+    float: left;
+    text-align: center;
+}
+#cont1 table{
+    width: 100%;
+    height:500px;
+    text-align: center;
+    font-family: Digifit;
+    font-size: 25px;
+}
+#cont1 table img{
+    width: 95%;
+    height: 700px;
+    text-align: center;
+}
+#cont1 table img:hover{
+    transform: scale(1.02);
+
+}
+aside img{
+    width: 3%;
+    height: 3%;
+}
+aside{
+    background-image:url(https://www.tuexperto.com/wp-content/uploads/2017/05/output_44nuqa.gif);
+}
+footer{
+    background-image: url(http://www.geocities.ws/Baja/Canyon/7331/textura.gif);
+    height: 400px;
+    background-color: black;
+    color: rgba(212, 212, 212, 0.753);
+    left: 0%;
+    font-family:Arial Rounded MT;
+}
+p{
+    color: rgba(212, 212, 212, 0.753);
+    text-align: center;
+    font-family:Arial Rounded MT;
+    font-size: 30px;
+
+}
